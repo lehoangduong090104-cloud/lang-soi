@@ -1,0 +1,10 @@
+{
+  "name": "lang-soi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ma sói nhiều đêm, một máy chung tự dẫn trò",
+  "scripts": {
+    "test": "node --test",
+    "dev": "node dev-server.js"
+  }
+}
